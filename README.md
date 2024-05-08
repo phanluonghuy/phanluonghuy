@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Phan Luong Huy</h1>
-<h3 align="center">A mobile developer from VietNam</h3>
+<h3 align="center">A mobile developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🎓 I’m currently studying on **Ton Duc Thang University**
